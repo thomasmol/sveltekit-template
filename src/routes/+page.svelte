@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Footer from "src/lib/sections/Footer.svelte";
+
+</script>
 <main>
 	<section class="container">
 		<header class="py-20 text-center">
@@ -11,3 +15,4 @@
 		</p>
 	</section>
 </main>
+<Footer/>
